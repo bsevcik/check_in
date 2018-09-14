@@ -4,7 +4,6 @@ This is a website intended to allow a teacher to track the exact time that a stu
 Early versions are done purely through HTML5 and Javascript and only function on the local webpage.
 
 Future goals:/
-  
   ⋅⋅⋅*Counts as on time if checked in within 15 minutes of start of class\
   ⋅⋅⋅*CSS3 formatting to make it look better\
   ⋅⋅⋅*Ability to use enter button to submit\
